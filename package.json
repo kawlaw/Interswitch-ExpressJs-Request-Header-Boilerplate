@@ -1,0 +1,23 @@
+{
+	"name": "interswitch-nodejs-boilerplate",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.0",
+		"crypto-js": "^4.0.0",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"js-base64": "^3.6.0",
+		"nonce": "^1.0.4"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.6"
+	}
+}
